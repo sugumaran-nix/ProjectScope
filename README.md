@@ -1,7 +1,7 @@
 # ProjectScope — Eisenhower Matrix Task Manager
 
 A professional-grade, frontend-only task manager built as a portfolio piece.
-All data persists in `localStorage` — no backend, no sign-up, no network required.
+All data persists in `localStorage` — no backend, no sign-up, no network required..
 
 ---
 
